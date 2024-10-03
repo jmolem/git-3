@@ -33,3 +33,5 @@ if __name__ == "__main__":
     # Muestra por pantalla el resultado.
     # Para imprimir un entero es necesario convertirlo a string con str()
     print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
+
+    MEGUSTA EL HELADO ROSA QUE CAGA MI UNICORNIO
